@@ -9,6 +9,3 @@ https://cran.r-project.org/web/packages/Lahman/Lahman.pdf
 
 https://jsheremat.shinyapps.io/baseball_stats21p3
 
-###This is a link to the Github source files
-
-https://jsheremat.shinyapps.io/baseball_stats21p3
