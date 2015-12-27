@@ -2,8 +2,8 @@ name: baseball_stats21p3
 account: jsheremat
 server: shinyapps.io
 appId: 74668
-bundleId: 337595
+bundleId: 339633
 url: https://jsheremat.shinyapps.io/baseball_stats21p3
-when: 1450891882.10594
+when: 1451243598.23609
 asMultiple: FALSE
 asStatic: FALSE

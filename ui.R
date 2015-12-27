@@ -22,7 +22,7 @@ shinyUI(
             sidebarLayout(
                sidebarPanel(
     
-    sliderInput('Year', 'Year', min=1890, max=2013,
+    sliderInput('Year', 'Year', min=1872, max=2013,
                 value=2000,step=1,sep=""),
     
     
